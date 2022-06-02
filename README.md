@@ -83,5 +83,4 @@ http error code:500
     ✔ GET /qr_codes/:qr_code_id (806ms)
 
 
-  8 passing (7s)
-`
+  8 passing (7s)`
