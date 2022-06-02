@@ -11,3 +11,7 @@ super-api-tests
 
 #.mocharc.yaml
 `require: '@babel/register'`
+
+#how to run
+
+`npm test`
